@@ -1,1 +1,3 @@
 # .github
+
+Special GitHub repository for customizing the **public-facing** components of the CandelaTechnologies GitHub organization. Use the [`.github-private`](https://github.com/CandelaTechnologies/.github-private) repository for customizing the **member-facing only** components of the CandelaTechnologies GitHub organization. See the [documentation](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) for more information.
